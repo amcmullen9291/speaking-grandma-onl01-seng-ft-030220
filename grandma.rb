@@ -7,5 +7,5 @@ def speak_to_grandma(statement)
     return "NO, NOT SINCE 1938!"
   end
 end
-speak_to_grandma("hello")
+speak_to_grandma("Hi Nana, how are you")
  
